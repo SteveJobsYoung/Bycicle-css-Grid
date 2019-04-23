@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC;AACD,CAAC,AAAA,OAAO;AACR,CAAC,AAAA,QAAQ,CAAC;EACN,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU;EACtB,SAAS,EAAE,KAAK;CAEnB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_base.scss",
+        "../sass/_typografy.scss",
+        "../sass/_grid.scss",
+        "../sass/_header.scss",
+        "../sass/_grid-section.scss",
+        "../sass/_testimonials.scss",
+        "../sass/_gallery.scss",
+        "../sass/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
