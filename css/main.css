@@ -25,6 +25,32 @@ body {
   display: grid;
 }
 
+.container > * {
+  font-size: 3rem;
+  padding: 2rem;
+  color: #fff;
+}
+
+.header {
+  background-color: #ce187c;
+}
+
+.generation {
+  background-color: #19c7aa;
+}
+
+.boxes {
+  background-color: #12b11a;
+}
+
+.testimonials {
+  background-color: #1b64d1;
+}
+
+.gallery {
+  background-color: #c51bd4;
+}
+
 .footer {
   background-color: #3d0f0f;
 }
