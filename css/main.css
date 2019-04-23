@@ -19,4 +19,13 @@ body {
   color: #353738;
   font-weight: 400;
 }
+
+.container {
+  display: -ms-grid;
+  display: grid;
+}
+
+.footer {
+  background-color: #3d0f0f;
+}
 /*# sourceMappingURL=main.css.map */

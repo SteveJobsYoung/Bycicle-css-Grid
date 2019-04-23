@@ -1,17 +1,17 @@
 {
     "version": 3,
-    "mappings": "AEAA,AAAA,CAAC;AACD,CAAC,AAAA,OAAO;AACR,CAAC,AAAA,QAAQ,CAAC;EACN,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU;EACtB,SAAS,EAAE,KAAK;CACnB;;AAED,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,GAAG;EAChB,WAAW,EDZA,MAAM,EAAE,UAAU;ECa7B,KAAK,EDhBO,OAAO;ECiBnB,WAAW,EAAE,GAAG;CACnB",
+    "mappings": "AEAA,AAAA,CAAC;AACD,CAAC,AAAA,OAAO;AACR,CAAC,AAAA,QAAQ,CAAC;EACN,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU;EACtB,SAAS,EAAE,KAAK;CACnB;;AAED,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,GAAG;EAChB,WAAW,EDZA,MAAM,EAAE,UAAU;ECa7B,KAAK,EDhBO,OAAO;ECiBnB,WAAW,EAAE,GAAG;CACnB;;AElBD,AAAA,UAAU,CAAC;EAEP,OAAO,EAAE,IAAI;CAChB;;AKHD,AAAA,OAAO,CAAC;EACJ,gBAAgB,EAAE,OAAe;CACpC",
     "sources": [
-        "../src/sass/main.scss",
-        "../src/sass/_var.scss",
-        "../src/sass/_base.scss",
-        "../src/sass/_typografy.scss",
-        "../src/sass/_grid.scss",
-        "../src/sass/_header.scss",
-        "../src/sass/_grid-section.scss",
-        "../src/sass/_testimonials.scss",
-        "../src/sass/_gallery.scss",
-        "../src/sass/_footer.scss"
+        "../sass/main.scss",
+        "../sass/_var.scss",
+        "../sass/_base.scss",
+        "../sass/_typografy.scss",
+        "../sass/_grid.scss",
+        "../sass/_header.scss",
+        "../sass/_grid-section.scss",
+        "../sass/_testimonials.scss",
+        "../sass/_gallery.scss",
+        "../sass/_footer.scss"
     ],
     "names": [],
     "file": "main.css"
