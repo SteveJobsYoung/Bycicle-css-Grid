@@ -9,5 +9,11 @@
 html {
     box-sizing: border-box;
     font-size: 62.5%;
-    
+}
+
+body {
+    line-height: 1.7;
+    font-family: $font-primary;
+    color: $color-primary;
+    font-weight: 400;
 }
